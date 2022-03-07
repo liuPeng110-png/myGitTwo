@@ -23,4 +23,4 @@ helloGit one yy hello bigBoy
 888888888888888
 999999999999999  
 我的第一次在远程ca
-
+测试ssh命令可不可以用
